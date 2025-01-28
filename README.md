@@ -5,6 +5,7 @@ Python projects were developed using Jupyter Notebook.
 Java projects were developed using Eclipse IDE.
 
 Important Notice
+
 This repository is intended solely for the admissions committee and professional review. It is not intended for academic use, redistribution, or as a source of solutions for coursework assignments.
 If you are a student, please adhere to your institution’s academic integrity policies and refrain from using this code inappropriately.
 For any questions or requests regarding this portfolio, please contact me directly.
