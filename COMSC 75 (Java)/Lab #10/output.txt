@@ -1,0 +1,4 @@
+Juan Fulano: 86.33 (3 tests)
+Tran Thi B: 89.60 (5 tests)
+Jan Kovacs: 84.63 (4 tests)
+Erika Mustermann: 86.25 (4 tests)
