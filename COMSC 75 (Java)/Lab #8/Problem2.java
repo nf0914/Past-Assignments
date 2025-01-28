@@ -1,6 +1,6 @@
 /*
  * 
- * Niklas Feil-Haww
+ * Niklas Feil-Ho
  * Id # 1057122
  * January 18, 2024
  * COMSC - 075
